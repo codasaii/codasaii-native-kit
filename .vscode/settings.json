@@ -29,5 +29,8 @@
 		"ListFooterComponentClassName",
 		"ListHeaderComponentClassName"
 	],
-	"tailwindCSS.classFunctions": ["useResolveClassNames"]
+	"tailwindCSS.classFunctions": ["useResolveClassNames"],
+	"css.lint.unknownAtRules": "ignore",
+	"scss.lint.unknownAtRules": "ignore",
+	"less.lint.unknownAtRules": "ignore"
 }
